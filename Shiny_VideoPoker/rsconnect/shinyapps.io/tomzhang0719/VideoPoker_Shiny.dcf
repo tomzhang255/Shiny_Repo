@@ -1,0 +1,12 @@
+name: VideoPoker_Shiny
+title: VideoPoker_Shiny
+username:
+account: tomzhang0719
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 2756802
+bundleId: 3596938
+url: https://tomzhang0719.shinyapps.io/VideoPoker_Shiny/
+when: 1599334000.58864
+asMultiple: FALSE
+asStatic: FALSE
