@@ -1,0 +1,12 @@
+name: hp_movie_picker
+title: hp_movie_picker
+username:
+account: tomzhang0719
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 4474504
+bundleId: 4906391
+url: https://tomzhang0719.shinyapps.io/hp_movie_picker/
+when: 1628573273.64943
+asMultiple: FALSE
+asStatic: FALSE
