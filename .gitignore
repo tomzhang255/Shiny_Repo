@@ -39,7 +39,7 @@ vignettes/*.pdf
 .Renviron
 
 # macOS-specific
-.DS_Store
+*/.DS_Store
 
 # Shiny
 */rsconnect/
